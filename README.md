@@ -11,8 +11,8 @@
 
 </br>
 
-![Subhakanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&theme=tokyonight)
+![Subhakanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&theme=onedark)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=predator2v0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=predator2v0&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
