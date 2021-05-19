@@ -35,21 +35,16 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
-</br>
 <h3 align="left">Frameworks and Libraries </h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
-</br>
 <h3 align="left">Tools </h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact" alt="predator2v0" /></p>
 
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en" alt="predator2v0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en" alt="predator2v0" /></p>
 
-</br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&" alt="predator2v0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&" alt="predator2v0" /></p>
