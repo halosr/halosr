@@ -13,7 +13,7 @@
 
 -   📄 Know about my experiences [https://predator2v0.github.io/myportfolio](https://predator2v0.github.io/myportfolio)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="predator2v0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhakanta-roul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="subhakanta-roul" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 <a href="https://medium.com/@predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@predator2v0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="predator2v0" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="predator2v0" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Technologies </h3>
 <p align="left">
@@ -43,8 +43,8 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en" alt="predator2v0" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&theme=onedark" alt="predator2v0" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&" alt="predator2v0" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=onedark" alt="predator2v0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact" alt="predator2v0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=onedark" alt="predator2v0" /></p>
