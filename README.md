@@ -11,7 +11,7 @@
 
 -   📫 How to reach me **sr.subhakanta@gmail.com**
 
--   📄 Know about my experiences [here](https://predator2v0.github.io/myportfolio/sr_resume.pdf)
+-   📄 Know about my experiences [here](https://predator2v0.github.io/myportfolio/res/sr_resume.pdf)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
