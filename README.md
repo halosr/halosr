@@ -47,8 +47,8 @@
 <a href="https://git-scm.com/" target="_blank">&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" class="skill-icon"/> </a>  
 <a href="https://www.linux.org/" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" class="skill-icon"/> </a>
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&theme=onedark" alt="predator2v0" width="450"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&theme=material-palenight" alt="predator2v0" width="450"/></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=onedark" alt="predator2v0" width="450"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=material-palenight" alt="predator2v0" width="450"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=onedark" alt="predator2v0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" /></p>
