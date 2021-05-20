@@ -52,9 +52,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=onedark" alt="predator2v0" width="450"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=onedark" alt="predator2v0" /></p>
-
-<style>
-    .skill-icon{
-        margin-right:10px;
-    }
-</style>
