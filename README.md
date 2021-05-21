@@ -53,4 +53,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" /></p>
 
-[![Subhakanta's github activity graph](https://activity-graph.herokuapp.com/graph?username=predator2v0&theme=github)](https://github.com/predator2v0/github-readme-activity-graph)
+<p>&nbsp;<a href="https://github.com/predator2v0/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github" alt="Subhakanta&#39;s github activity graph"></a></p>
