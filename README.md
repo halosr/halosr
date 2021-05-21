@@ -52,3 +52,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=material-palenight" alt="predator2v0" width="450"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" /></p>
+
+[![Subhakanta's github activity graph](https://activity-graph.herokuapp.com/graph?username=predator2v0&theme=github)](https://github.com/predator2v0/github-readme-activity-graph)
