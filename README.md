@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Subhakanta Roul</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1>Hi 👋, I'm Subhakanta</h1>
 
--   👀 I’m interested in **web and mobile app development**
+<a href="https://linkedin.com/in/subhakanta-roul"> <img src="https://img.shields.io/badge/-subhakanta%20roul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhakanta-roul/"/></a>
+<a href="mailto:sr.subhakanta@gmail.com"> <img src="https://img.shields.io/badge/-sr.subhakanta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sr.subhakanta@gmail.com"/></a>
+<a href="https://stackoverflow.com/users/11253118/predator2v0"> <img src="https://img.shields.io/badge/-predator2v0-F48024?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11253118/predator2v0"/></a>
+
+-   👀 I’m interested in **Web and Mobile app development**
 
 -   🌱 I’m currently learning **Android**
 
--   👨‍💻 All of my projects are available at [https://github.com/predator2v0](https://github.com/predator2v0)
-
 -   💬 Ask me about **Java, Oracle, Web Development**
 
--   📫 How to reach me **sr.subhakanta@gmail.com**
-
 -   📄 Know about my experiences [here](https://predator2v0.github.io/myportfolio/res/sr_resume.pdf)
+
+-   😄 Pronouns **He/Him**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
