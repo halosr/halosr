@@ -55,4 +55,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" /></p>
 
-<p>&nbsp;<a href="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github"><img src="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github" alt="Subhakanta&#39;s github activity graph"></a></p>
+<p>&nbsp;<img src="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github" alt="Subhakanta&#39;s github activity graph"></p>
