@@ -18,12 +18,12 @@
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="predator2v0" height="25" width="40" /></a>
-<a href="https://linkedin.com/in/subhakanta-roul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="subhakanta-roul" height="25" width="40" /></a>
-<a href="https://stackoverflow.com/users/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="predator2v0" height="25" width="40" /></a>
-<a href="https://medium.com/@predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@predator2v0" height="25" width="40" /></a>
-<a href="https://www.hackerrank.com/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="predator2v0" height="25" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="predator2v0" height="25" width="40" /></a>
+<a href="https://twitter.com/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="predator2v0" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/subhakanta-roul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="subhakanta-roul" height="25" width="25" /></a>
+<a href="https://stackoverflow.com/users/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="predator2v0" height="25" width="25" /></a>
+<a href="https://medium.com/@predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@predator2v0" height="25" width="25" /></a>
+<a href="https://www.hackerrank.com/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="predator2v0" height="25" width="25" /></a>
+<a href="https://auth.geeksforgeeks.org/user/predator2v0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="predator2v0" height="25" width="25" /></a>
 </p> -->
 
 <h3 align="left">Languages and Technologies </h3>
@@ -36,11 +36,17 @@
 <a href="https://www.w3schools.com/css/" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" class="skill-icon"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" class="skill-icon"/> </a>
 <a href="https://www.php.net" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" class="skill-icon"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> </a> 
 </p>
 <h3 align="left">Frameworks and Libraries </h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25" class="skill-icon"/> </a> 
-<a href="https://getbootstrap.com" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25" class="skill-icon"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a> 
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/> </a>
 </p>
 <h3 align="left">Tools </h3>
 <p align="left">
@@ -56,4 +62,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" /></p>
 
-<p>&nbsp;<img src="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github" alt="Subhakanta&#39;s github activity graph"></p>
+<p>&nbsp;<img src="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github" alt="Subhakanta&#39;s github activity graph">
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a> 
+</p>
