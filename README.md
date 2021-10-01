@@ -55,6 +55,7 @@
 <a href="https://developer.android.com/studio" target="_blank">&nbsp; <img src="img/android-studio.svg" alt="androidstudio" width="25" height="25" class="skill-icon"/> </a>  
 <a href="https://git-scm.com/" target="_blank">&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" class="skill-icon"/> </a>  
 <a href="https://www.linux.org/" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" class="skill-icon"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&cache_seconds=1800&theme=material-palenight" alt="predator2v0" width="450"/></p>
 
@@ -63,5 +64,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" /></p>
 
 <p>&nbsp;<img src="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github" alt="Subhakanta&#39;s github activity graph">
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a> 
+</a> 
 </p>
