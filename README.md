@@ -1,15 +1,3 @@
-<style> 
-    .links{
-        
-    }
-    .stats{
-        
-    }
-    .stats img{
-        
-    }
-</style>
-
 <img src="./img/readme-cover.png">
 
 <div style="text-align:center;">
