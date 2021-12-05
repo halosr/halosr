@@ -1,6 +1,6 @@
 <img src="./img/readme-cover.png">
 
-<div style="text-align:center">
+<div style="text-align:center margin:auto">
 <a href="https://linkedin.com/in/subhakanta-roul"> <img src="https://img.shields.io/badge/-subhakanta%20roul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhakanta-roul/"/></a>
 <a href="mailto:papu.roul99@gmail.com"> <img src="https://img.shields.io/badge/-papu.roul99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sr.subhakanta@gmail.com"/></a>
 <a href="https://www.hackerrank.com/predator2v0"> <img src="https://img.shields.io/badge/-predator2v0-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/predator2v0"/></a>
