@@ -18,9 +18,9 @@
         width: 100%;"> 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&cache_seconds=1800&theme=material-palenight" alt="predator2v0" style="width: 400px;"/></p> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=material-palenight" alt="predator2v0" style="width: 400px;"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=material-palenight" alt="predator2v0" style="width: 400px; height: 250px;"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" style="width: 400px;"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" style="width: 400px; height:250px;"/></p>
 
 <!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=predator2v0&amp;theme=github" alt="Subhakanta&#39;s github activity graph" style="width: 400px;"> -->
 </a> 
