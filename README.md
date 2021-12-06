@@ -11,11 +11,11 @@
 </div>
 
 <div align="center"> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&cache_seconds=1800&theme=material-palenight" alt="predator2v0" width="30%" height="auto"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&cache_seconds=1800&theme=material-palenight&hide_border=true" alt="predator2v0" width="30%" height="auto"/>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=material-palenight" alt="predator2v0" width="30%" height="auto"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=material-palenight&hide_border=true" alt="predator2v0" width="30%" height="auto"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="predator2v0" width="30%" height="auto"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=predator2v0&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true" alt="predator2v0" width="30%" height="auto"/>
 
 <!-- <img align="right" src="https://activity-graph.herokuapp.com/graph?username=predator2v0&theme=github" alt="Subhakanta&#39;s github activity graph" width="32%" height="auto">  -->
 </div>
