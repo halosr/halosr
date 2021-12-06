@@ -10,7 +10,7 @@
 
 </div>
 
-<div> 
+<div display="inline" padding="0px"> 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=predator2v0&show_icons=true&locale=en&cache_seconds=1800&theme=material-palenight" alt="predator2v0" width="32%" height="auto"/>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=predator2v0&theme=material-palenight" alt="predator2v0" width="32%" height="auto"/>
