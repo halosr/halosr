@@ -1,6 +1,6 @@
 <img src="./img/readme-cover.png">
 
-<div style="display: flex; justify-content: center; align-items:center;">
+<div style="margin: 0 auto;">
 
 <a href="https://linkedin.com/in/subhakanta-roul"> <img src="https://img.shields.io/badge/-subhakanta%20roul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhakanta-roul/"/></a>
 <a href="mailto:papu.roul99@gmail.com"> <img src="https://img.shields.io/badge/-papu.roul99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sr.subhakanta@gmail.com"/></a>
