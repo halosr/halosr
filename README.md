@@ -1,4 +1,4 @@
-<img src="./img/readme-cover.png">
+<img src="./img/readme-cover.jpg">
 
 <div align="center">
 
