@@ -13,7 +13,7 @@
 <div align="center"> 
 <img align="right" src="https://github-readme-stats-beta-ten-75.vercel.app/api?username=halosr&show_icons=true&locale=en&cache_seconds=1800&theme=material-palenight&hide_border=true" alt="halosr" width="30%" height="auto"/>
 
-<img align="left" src="https://streak-stats.demolab.com/?user=halosr&theme=material-palenight&hide_border=true" alt="halosr" width="30%" height="auto"/>
+<img align="left" src="https://github-readme-streak-stats-one-pied.vercel.app/?user=halosr&theme=material-palenight&hide_border=true" alt="halosr" width="30%" height="auto"/>
 
 <img align="center" src="https://github-readme-stats-beta-ten-75.vercel.app/api/top-langs?username=halosr&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true" alt="halosr" width="30%" height="auto"/>
 
